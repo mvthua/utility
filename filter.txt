@@ -1,0 +1,20 @@
+[Adblock Plus 2.0]
+! Version: 
+! Title: My Personal Filter List
+! Last modified: 
+! Expires:
+! Homepage: 
+!
+||cdn.flamecomics.com/uploads/images/shared/*
+||cdn.flamecomics.xyz/uploads/images/shared/*
+||cdn.flamecomics.xyz/assets/*
+||radioonlinehd.s3.amazonaws.com/*
+||radioonlinehd.com
+flamecomics.com##[src*="cdn.flamecomics.com/uploads/images/shared/"]
+flamecomics.xyz##[src*="cdn.flamecomics.com/uploads/images/shared/"]
+flamecomics.xyz##[src*="cdn.flamecomics.xyz/uploads/images/shared/"]
+flamecomics.xyz##[src*="cdn.flamecomics.xyz/assets/"]
+radioonlinehd.s3.amazonaws.com##[src*="radioonlinehd.s3.amazonaws.com/"]
+flamecomics.xyz##[src*="radioonlinehd.s3.amazonaws.com/"]
+radioonlinehd.s3.amazonaws.com##[src*="radioonlinehd.com/"]
+flamecomics.xyz##[src*="radioonlinehd.com/"]
