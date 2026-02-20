@@ -19,3 +19,4 @@ flamecomics.xyz##[src*="radioonlinehd.s3.amazonaws.com/"]
 radioonlinehd.s3.amazonaws.com##[src*="radioonlinehd.com/"]
 flamecomics.xyz##[src*="radioonlinehd.com/"]
 yourchineseastrology.com##.fc-ab-root
+yourchineseastrology.com##.fc-message-root
